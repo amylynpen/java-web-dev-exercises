@@ -1,4 +1,4 @@
-package exercises.technology;
+package org.launchcode.java.demos.exercises.technology;
 
 public class Computer extends AbstractEntity{
     // computer is my parent class
